@@ -25,7 +25,7 @@
       "value":"no",
       "required":false
     },
-	    "AUTO_REACT_STATUS":
+  "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto react status",
       "value":"yes",
@@ -40,6 +40,12 @@
 	  "AUTO_REACT":
     {
       "description":"Enter yes for your bot to auto react message in all chats",
+      "value":"yes",
+      "required":false
+    },
+	  "AUDIO_REPLY":
+    {
+      "description":"Enter yes for your bot to auto reply audio in all chats",
       "value":"yes",
       "required":false
     },

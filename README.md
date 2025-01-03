@@ -69,16 +69,11 @@
 | AUTO REACT STATUS ADDED    | ✅  |
 | AUTO READ MESSAGE ADDED    | ✅  |
 | AUTO REJECT CALL ADDED     | ✅  |
+| AUDIO REPLY ADDED          | ✅  |
+| AUTO SAVE CONTACTS ADDED   | ✅  |
 | FUN CMD HACK ADDED         | ✅  |
 
-
-***Others Future Updated All Success***
-
-| Menu ⁠➜         | Play    | A.Delete  | A.Read Message| A.Reaction | A.React Status| Ai new cmd | New Game | Fun | Owner | Dangerous Bugs | Convert | New Group Cmd |
-| ----------------| ------- | --------- | ------------ | ---------- | ------------- | ----------- | -------- | --- | ----- | -------------- | --------| --------------|
-| Work ➜         |  ✅     |   ✅      |    ✅        |     ✅     |      ✅       |     ✅      |   ✅     |  ✅ |  ✅   |      ✅       |    ✅   |       ✅      |
-| Updated Time ➜ | 01/12/24 | 01/12/24 | 01/12/2024.  | 01/12/24.  | 01/12/2024    | 01/12/2024  | 01/12/24 | old | old   | 01/12/2024.    |  Old    | 01/12/2024    |
-| Added By ➜     | devfree | devfree.  | devfree.     | devfree    | devfree       | devfree.    | devfree  | dev | Fredi | devfree        | Fredie  | devfree       |
+FORWARD COMMAND ADDED you share a message to all members in the group automatic by use bot😅😅✅✅
 
 ***ᴅᴇᴘʟᴏʏ ɴᴏᴡ ɪɴ ʜᴇʀᴏᴋᴜ ɪᴛ's sᴀғᴇ 100% ɴᴏ sᴜsᴘᴇɴᴅ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴛᴇsᴛᴇᴅ ʙʏ ғʀᴇᴅɪᴇᴛᴇᴄʜ ᴀɴᴅ ɪʙʀᴀʜɪᴍ***
 
@@ -106,7 +101,7 @@
 
 
 </a></p>
-- <a href="https://github.com/Fred1e/LUCKY_MD/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=silver&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/></a></p>
+- <a href="https://github.com/Fred1e/LUCKY_MD/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/></a></p>
 
 sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
 
@@ -118,7 +113,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 ## 𝟚.ᴡᴇʙ sɪᴛᴇ ᴛᴏ ɢᴇᴛ sᴇssɪᴏɴ ᴠɪᴀ ǫʀ & ᴘᴀɪʀ
  
 </a></p>
-- <a href="https://fredietech.onrender.com"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/SCAN CODE HERE-h?color=silver&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/></a></p>
+- <a href="https://fredietech.onrender.com"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/SCAN CODE HERE-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/></a></p>
 
 
 
@@ -136,7 +131,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 <a href='https://www.youtube.com/@freeonlinetvT1' target="_grey"><img alt='YOUTUBE' src='https://img.shields.io/badge/Tutorial Here In Youtube-grey?style=for-the-badge&logo=youtube&logoColor=red'/></a>
 <a href='t.me/freditech' target="_grey"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram For Dev-grey?style=for-the-badge&logo=telegram&logoColor=blue'/></a>
 <a href='https://t.me/+u3zlb5y6OfxhOTdk' target="_grey"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram Group-grey?style=for-the-badge&logo=Telegram&logoColor=blue'/></a>
-<a href='https://www.linkedin.com/in/fredi-ezra-6956352b7' target="_grey"><img alt='LINKEDIN' src='https://img.shields.io/badge/LinkedIn For Dev-grey?style=for-the-badge&logo=linkedIn&logoColor=blue'/></a>
+<a href='https://www.linkedin.com/in/fredi-ezra-6956352b7' target="_grey"><img alt='LINKEDIN' src='https://img.shields.io/badge/LinkedIn For Dev-grey?style=for-the-badge&logo=linked-In&logoColor=blue'/></a>
 <a href='https://www.tiktok.com/@fredietech' target="_grey"><img alt='TIKTOK' src='https://img.shields.io/badge/TikTok For Dev-grey?style=for-the-badge&logo=tiktok&logoColor=black'/></a>
 <a href='https://www.facebook.com/profile.php?id=61553209932337' target="_grey"><img alt='FACEBOOK' src='https://img.shields.io/badge/Facebook For Dev-grey?style=for-the-badge&logo=facebook&logoColor=blue'/></a>
 <a href='https://www.instagram.com/fredi.simba.tz' target="_grey"><img alt='INSTAGRAM' src='https://img.shields.io/badge/Instagram For Dev-grey?style=for-the-badge&logo=instagram&logoColor=purple'/></a>
@@ -153,12 +148,12 @@ HEROKU
 **1. ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**
 
 </a></p>
-- <a href='https://signup.heroku.com/' target="_silver"><img alt='Heroku' src='https://img.shields.io/badge/-ℂℝ𝔼𝔸𝕋𝔼 𝔸ℂℂ𝕆𝕌ℕ𝕋 ℕ𝕆𝕎-silver?style=for-the-badge&logo=tesla&logoColor=black' width="240" height="38.45"/></a>
+- <a href='https://signup.heroku.com/' target="_silver"><img alt='Heroku' src='https://img.shields.io/badge/-ℂℝ𝔼𝔸𝕋𝔼 𝔸ℂℂ𝕆𝕌ℕ𝕋 ℕ𝕆𝕎-rgb(224, 255, 255)?style=for-the-badge&logo=tesla&logoColor=black' width="240" height="38.45"/></a>
 
 **2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ** 
 
 </a></p>
-- <a href='https://dashboard.heroku.com/new?template=https://github.com/Fred1e/LUCKY_MD' target="_silver"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕆 ℍ𝔼ℝ𝕆𝕂𝕌-silver?style=for-the-badge&logo=tesla&logoColor=black' width="240" height="38.45"/></a>
+- <a href='https://dashboard.heroku.com/new?template=https://github.com/Fred1e/LUCKY_MD' target="_silver"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕆 ℍ𝔼ℝ𝕆𝕂𝕌-rgb(224, 255, 255)?style=for-the-badge&logo=tesla&logoColor=black' width="240" height="38.45"/></a>
 
 
 
@@ -189,11 +184,11 @@ KOYEB
 <details>
 <summary>Tap To Check Fredi Md💯</summary>
  Fredi Md Info
-    <a href='https://github.com/Fred1e/Fredi_Md' target="_blank"><img alt='Open Fredi Md Repo Here🛰️' src='https://img.shields.io/badge/Open Fredi Md Repo Here-black?style=for-the-badge&logo=tesla&logoColor=blue'/></a>
+    <a href='https://github.com/Fred1e/Fredi_Md' target="_blank"><img alt='Open Fredi Md Repo Here🛰️' src='https://img.shields.io/badge/Open Fredi Md Repo Here-rgb(224, 255, 255)?style=for-the-badge&logo=tesla&logoColor=blue'/></a>
 
 
 All Information About Me 
-    <a href='https://fredi-bio.vercel.app/' target="_blank"><img alt='Owner Info Tap Here😎' src='https://img.shields.io/badge/Owner Info Tap Here😎-black?style=for-the-badge&logo=tesla&logoColor=blue'/></a>
+    <a href='https://fredi-bio.vercel.app/' target="_blank"><img alt='Owner Info Tap Here😎' src='https://img.shields.io/badge/Owner Info Tap Here😎-rgb(224, 255, 255)?style=for-the-badge&logo=tesla&logoColor=blue'/></a>
 </details>
 
 
